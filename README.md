@@ -1,9 +1,6 @@
-![Screen Shot 2022-07-20 at 10 20 08 PM](https://user-images.githubusercontent.com/92279620/180115908-1785251f-e5c6-4a0d-b51e-67b35e60c81c.png)
-![Screen Shot 2022-07-20 at 10 20 23 PM](https://user-images.githubusercontent.com/92279620/180115921-5d3b04e0-3eea-43aa-841e-464cbb1a7f20.png)
-![Screen Shot 2022-07-20 at 10 20 44 PM](https://user-images.githubusercontent.com/92279620/180115923-345c6822-a282-49cd-815b-b5deeb7aae5a.png)
-
-
-
+![Screen Shot 2022-07-20 at 10 51 32 PM](https://user-images.githubusercontent.com/92279620/180119868-914d54dd-ab3c-457e-b8de-cc71ff968baf.png)
+![Screen Shot 2022-07-20 at 10 51 51 PM](https://user-images.githubusercontent.com/92279620/180119873-1b6839f7-127c-4c32-8349-f054d65a5067.png)
+![Screen Shot 2022-07-20 at 10 52 02 PM](https://user-images.githubusercontent.com/92279620/180119879-68284af3-e205-4c86-bda0-4ec62ba9a223.png)
 
 # Georgia-Football-React-Tailwind-App
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
