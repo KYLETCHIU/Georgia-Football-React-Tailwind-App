@@ -32,7 +32,7 @@ const Timeline = () => {
                     </div>
                     <div className="mt-0.5 ml-4 mb-6">
                         <h4 className="text-gray-800 font-semibold text-xl mb-1.5">Orange Bowl</h4>
-                        <p className="text-gray-800 mb-3">There was alot being said about Michigan going into the game, but it was all quiet on the westen front after. The Bulldogs brought the heat in a cold december game and brutalized Michigan 34-11 to win the Orange bowl and secure their spot in the National Championchip game vs the Alabama Crimson Tide.</p>
+                        <p className="text-gray-800 mb-3">There was alot being said about Michigan going into the game, but it was all quiet on the westen front after. The Bulldogs brought the heat to a cold December game and brutalized Michigan 34-11 to win the Orange bowl and secure their spot in the National Championchip game vs the Alabama Crimson Tide.</p>
                     </div>
                 </li>
                 <li>
@@ -42,7 +42,7 @@ const Timeline = () => {
                     </div>
                     <div className="mt-0.5 ml-4 pb-5">
                         <h4 className="text-gray-800 font-semibold text-xl mb-1.5">"There's gonna be some property destroyed tonight"</h4>
-                        <p className="text-gray-800 mb-3">Victory. Finally on top of the Mountain. The Georgia Bulldogs defeated the Alabama Crimson Tide 33 - 18 in Indianapolis to secure their first national title in 41 years. The deal was sealed by a end of the game pick 6 by Kelee Ringo. The Dawg defense thus scored the first and final touchdowns of this historic season.</p>
+                        <p className="text-gray-800 mb-3">Victory. Finally on top of the Mountain. The Georgia Bulldogs defeated the Alabama Crimson Tide 33 - 18 in Indianapolis to secure their first national title in 41 years. The deal was sealed by an end of the game pick 6 by Kelee Ringo. The Dawg defense thus scored the first and final touchdowns of this historic season.</p>
                     </div>
                 </li>
             </ol>
