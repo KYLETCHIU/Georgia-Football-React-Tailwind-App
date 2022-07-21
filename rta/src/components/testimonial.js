@@ -23,7 +23,7 @@ const Testimonials = () => {
           className="rounded-full shadow-lg w-32 h-32"
         />
       </div>
-      <h5 className="text-xl font-semibold mb-4">Maria Smantha</h5>
+      <h5 className="text-xl font-semibold mb-4">Kirby Smart</h5>
       <h6 className="font-semibold text-red-600 mb-4">Head Coach</h6>
       <p className="mb-4">
         <svg
